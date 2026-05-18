@@ -1,3 +1,9 @@
+# Universal xPOS Substrate
+
+This repository serves as the universal xPOS substrate for the conceptual stack authored by Joel Monasterial: HiveSync, MEANION, Invariant Architecture, DCE, EOI, xPOS, Interpretation Layer, and Stability Architecture.
+
+All future concepts, terms, and frameworks in this universe must be introduced here first, then propagated outward to other surfaces (LinkedIn, ORCID, Zenodo).
+
 # HiveSync Lexicon (Canonical Definitions)
 
 This repository contains the **canonical lexicon and authorship anchor** for the interpretive architecture introduced by Joel Monasterial, including:

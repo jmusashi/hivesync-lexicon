@@ -42,3 +42,7 @@ This repository exists to:
 All terms and structures in this lexicon are original conceptual constructs authored by **Joel Monasterial**.
 
 This repository serves as the permanent, public, and canonical reference for these definitions.
+
+**Identity:** https://orcid.org/0009-0000-7620-645X
+**Research:** https://zenodo.org/communities/invariant-architecture
+
